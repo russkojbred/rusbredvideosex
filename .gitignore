@@ -1,0 +1,11 @@
+/build/
+/.dart_tool/
+/.pub-cache/
+/.pub/
+/bin/
+pubspec.lock
+*.iml
+.idea/
+.vscode/
+.DS_Store
+*.log
